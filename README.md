@@ -31,3 +31,6 @@ A production-grade Retrieval-Augmented Generation (RAG) chatbot built with LangC
 - **Embeddings**: HuggingFace `all-MiniLM-L6-v2` (Local)
 - **Vector Store**: ChromaDB
 - **Framework**: LangChain
+
+- https://rag-chatbot-v2-qeeibh5w4qevrebgnmhm9a.streamlit.app
+  
